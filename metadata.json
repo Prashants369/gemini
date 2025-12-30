@@ -1,0 +1,5 @@
+{
+  "name": "AutoCaption AI",
+  "description": "An intelligent video captioning tool that automatically generates synchronized subtitles for short videos, specializing in Romanized Hindi (Hinglish) and offering dynamic text animations.",
+  "requestFramePermissions": []
+}
